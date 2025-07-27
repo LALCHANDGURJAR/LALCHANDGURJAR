@@ -1,16 +1,14 @@
-## Hi there 👋
-
-<!--
-**LALCHANDGURJAR/LALCHANDGURJAR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+cash_jeeto/
+├── android/
+├── ios/
+├── lib/
+│   ├── main.dart
+│   ├── screens/
+│   │   ├── login_screen.dart
+│   │   ├── home_screen.dart
+│   │   ├── wallet_screen.dart
+│   │   ├── withdraw_screen.dart
+│   │   └── profile_screen.dart
+│   └── widgets/
+├── assets/
+├── pubspec.yaml
